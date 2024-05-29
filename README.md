@@ -35,7 +35,7 @@ To run the project locally, follow these steps:
 
 ## Usage
 
-The NexID Digital Product Passport is an early-stage side project I'm leading, dedicated to developing innovative solutions for digital product passports. The mission is to provide advanced tracking and management systems to enhance transparency and sustainability in various industries, starting with hardware and tools.
+The NexID Digital Product Passport is an innovative solution for digital product passports. The mission is to provide advanced tracking and management systems to enhance transparency and sustainability in the hardware and tools industry.
 
 ## Features
 
